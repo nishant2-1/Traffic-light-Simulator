@@ -1,5 +1,10 @@
 # Traffic Light Simulator
 
+[![Flutter CI](https://github.com/nishant2-1/Traffic-light-Simulator/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/nishant2-1/Traffic-light-Simulator/actions/workflows/flutter-ci.yml)
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A Flutter application that simulates a realistic traffic signal cycle with interactive timing controls.
 
 Repository: `https://github.com/nishant2-1/Traffic-light-Simulator`
@@ -13,6 +18,11 @@ Detailed project documentation is available in `docs/`:
 - `docs/TECH_STACK.md` - technology choices, dependency roles, and tooling
 - `docs/ACHIEVEMENTS.md` - completed milestones and portfolio impact
 - `docs/PROJECT_STRUCTURE.md` - repository layout and ownership of key files
+
+Repository governance docs:
+
+- `CONTRIBUTING.md` - contribution process, quality gates, and PR checklist
+- `LICENSE` - open-source license terms (MIT)
 
 ## About
 
@@ -29,6 +39,22 @@ The app uses a tab-based layout:
 - `Map` tab: placeholder screen for map-based traffic features
 - `Simulation` tab: active traffic signal simulation
 - `Reports` tab: placeholder screen for metrics/reporting
+
+## Screenshots
+
+Add your screenshots to `assets/screenshots/` and they will render here.
+
+### Simulation Screen
+
+![Simulation Screen](assets/screenshots/simulation-screen.png)
+
+### Home Tabs
+
+![Home Tabs](assets/screenshots/home-tabs.png)
+
+### Control Panel
+
+![Control Panel](assets/screenshots/control-panel.png)
 
 ## Traffic Signal Logic
 
@@ -131,9 +157,9 @@ flutter run -d android
 3. Watch the active phase and countdown update in real time.
 4. Adjust phase durations with sliders.
 5. Use:
-	- `Pause` to stop the timer
-	- `Next phase` to force an immediate transition
-	- `Reset` to return to initial red state
+   - `Pause` to stop the timer
+   - `Next phase` to force an immediate transition
+   - `Reset` to return to initial red state
 
 ## Quality Checks
 
@@ -175,5 +201,10 @@ Planned next improvements:
 
 ## License
 
-No license file is currently included in this repository.
-If you plan to open source this project, add a `LICENSE` file (for example MIT).
+This project is licensed under the MIT License.
+See `LICENSE` for details.
+
+## Contributing
+
+Contributions are welcome.
+Read `CONTRIBUTING.md` before opening a pull request.
