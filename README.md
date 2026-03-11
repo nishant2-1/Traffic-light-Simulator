@@ -4,6 +4,16 @@ A Flutter application that simulates a realistic traffic signal cycle with inter
 
 Repository: `https://github.com/nishant2-1/Traffic-light-Simulator`
 
+## Documentation Hub
+
+Detailed project documentation is available in `docs/`:
+
+- `docs/ARCHITECTURE.md` - system design, layers, state flow, and scaling path
+- `docs/REQUIREMENTS.md` - functional/non-functional and environment requirements
+- `docs/TECH_STACK.md` - technology choices, dependency roles, and tooling
+- `docs/ACHIEVEMENTS.md` - completed milestones and portfolio impact
+- `docs/PROJECT_STRUCTURE.md` - repository layout and ownership of key files
+
 ## About
 
 This project is designed to model a traffic light system in a clean and interactive way for learning, demos, and future expansion into traffic analytics.
