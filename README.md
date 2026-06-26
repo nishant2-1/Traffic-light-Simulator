@@ -56,7 +56,7 @@ Add your screenshots to `assets/screenshots/` and they will render here.
 
 ### Control Panel
 
-img width="936" height="856" alt="FA72E9FB-24FB-4242-B8C6-449B3BA633B9" src="https://github.com/user-attachments/assets/fc62857e-aad9-4ed9-ba61-525485f17857" />
+<img width="936" height="856" alt="FA72E9FB-24FB-4242-B8C6-449B3BA633B9" src="https://github.com/user-attachments/assets/fc62857e-aad9-4ed9-ba61-525485f17857" />
 
 
 ## Traffic Signal Logic
