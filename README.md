@@ -10,8 +10,8 @@ A Flutter application that simulates a realistic traffic signal cycle with inter
 Repository: `https://github.com/nishant2-1/Traffic-light-Simulator`
 
 ## Documentation Hub![Uploading 9313E222-F74E-4E4C-A528-601A74972773.png…]()
-<img width="936" height="856" alt="FA72E9FB-24FB-4242-B8C6-449B3BA633B9" src="https://github.com/user-attachments/assets/fc62857e-aad9-4ed9-ba61-525485f17857" />
-<img width="936" height="849" alt="CED53946-F60D-4627-A678-449518386EDA" src="https://github.com/user-attachments/assets/9dc37935-390f-4156-8907-d2cfa8801e96" />
+
+
 
 
 Detailed project documentation is available in `docs/`:
@@ -49,7 +49,7 @@ Add your screenshots to `assets/screenshots/` and they will render here.
 
 ### Simulation Screen
 
-![Simulation Screen](assets/screenshots/simulation-screen.png)
+<img width="936" height="856" alt="FA72E9FB-24FB-4242-B8C6-449B3BA633B9" src="https://github.com/user-attachments/assets/fc62857e-aad9-4ed9-ba61-525485f17857" />
 
 ### Home Tabs
 
@@ -57,7 +57,7 @@ Add your screenshots to `assets/screenshots/` and they will render here.
 
 ### Control Panel
 
-![Control Panel](assets/screenshots/control-panel.png)
+<img width="936" height="849" alt="CED53946-F60D-4627-A678-449518386EDA" src="https://github.com/user-attachments/assets/9dc37935-390f-4156-8907-d2cfa8801e96" />
 
 ## Traffic Signal Logic
 
