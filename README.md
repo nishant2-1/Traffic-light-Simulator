@@ -1,4 +1,4 @@
-<img width="936" height="849" alt="CED53946-F60D-4627-A678-449518386EDA" src="https://github.com/user-attachments/assets/5f5ccdd4-4834-428f-9f7a-244e2481fcab" /># Traffic Light Simulator
+# Traffic Light Simulator
 
 [![Flutter CI](https://github.com/nishant2-1/Traffic-light-Simulator/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/nishant2-1/Traffic-light-Simulator/actions/workflows/flutter-ci.yml)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
@@ -52,7 +52,8 @@ Add your screenshots to `assets/screenshots/` and they will render here.
 <
 ### Home Tabs
 
-<img width="936" height="849" alt="CED53946-F60D-4627-A678-449518386EDA" src="https://github.com/user-attachments/assets/ffda49e3-8e2c-4c6d-90ba-45f98efe5310" />
+<img width="936" height="838" alt="A3A9343C-6EC2-4588-B1CF-FDA4193B8677" src="https://github.com/user-attachments/assets/252e3ec3-f73f-4933-b095-6e320fc01c14" />
+
 
 ### Control Panel
 
