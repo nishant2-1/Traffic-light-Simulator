@@ -1,4 +1,4 @@
-# Traffic Light Simulator
+<img width="936" height="849" alt="CED53946-F60D-4627-A678-449518386EDA" src="https://github.com/user-attachments/assets/5f5ccdd4-4834-428f-9f7a-244e2481fcab" /># Traffic Light Simulator
 
 [![Flutter CI](https://github.com/nishant2-1/Traffic-light-Simulator/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/nishant2-1/Traffic-light-Simulator/actions/workflows/flutter-ci.yml)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
@@ -48,16 +48,16 @@ The app uses a tab-based layout:
 Add your screenshots to `assets/screenshots/` and they will render here.
 
 ### Simulation Screen
-
-<img width="936" height="856" alt="FA72E9FB-24FB-4242-B8C6-449B3BA633B9" src="https://github.com/user-attachments/assets/fc62857e-aad9-4ed9-ba61-525485f17857" />
-
+<img width="936" height="849" alt="CED53946-F60D-4627-A678-449518386EDA" src="https://github.com/user-attachments/assets/9dc37935-390f-4156-8907-d2cfa8801e96" />
+<
 ### Home Tabs
 
-![Home Tabs](assets/screenshots/home-tabs.png)
+<img width="936" height="849" alt="CED53946-F60D-4627-A678-449518386EDA" src="https://github.com/user-attachments/assets/ffda49e3-8e2c-4c6d-90ba-45f98efe5310" />
 
 ### Control Panel
 
-<img width="936" height="849" alt="CED53946-F60D-4627-A678-449518386EDA" src="https://github.com/user-attachments/assets/9dc37935-390f-4156-8907-d2cfa8801e96" />
+img width="936" height="856" alt="FA72E9FB-24FB-4242-B8C6-449B3BA633B9" src="https://github.com/user-attachments/assets/fc62857e-aad9-4ed9-ba61-525485f17857" />
+
 
 ## Traffic Signal Logic
 
